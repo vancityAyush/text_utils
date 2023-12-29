@@ -40,7 +40,7 @@ function App() {
             <Route exact path="/about" element={<About />} />
             <Route
               exact
-              path="/"
+              path="/text_utils"
               element={
                 <TextForm
                   heading="Enter your text to analyze"
